@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Wang%20Jiaxiang&fontAlign=60&fontAlignY=30&color=8ba6ff&fontColor=ffffff)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br><br><br><br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iWangJiaxiang"</a>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWangJiaxiang&layout=compact"</a>
+</p>
